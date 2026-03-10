@@ -18,8 +18,6 @@ https://github.com/user-attachments/assets/b9dce6fb-6989-4257-a262-dd0681b12c7d
 - Breadboard
 - Jumper Wires
 
----
-
 ## 🔌 Wiring Table
 
 ### OLED Display (SSD1306)
@@ -41,8 +39,6 @@ https://github.com/user-attachments/assets/b9dce6fb-6989-4257-a262-dd0681b12c7d
 
 > **Tip:** Use the breadboard's power rails (red = 3.3V, blue = GND) to share power between both the OLED and DHT11.
 
----
-
 ## 📦 Libraries Required
 
 Install these via Arduino IDE → Library Manager:
@@ -50,8 +46,6 @@ Install these via Arduino IDE → Library Manager:
 - `Adafruit SSD1306`
 - `Adafruit GFX Library`
 - `DHT sensor library` by Adafruit
-
----
 
 ## 💻 Code
 
@@ -132,8 +126,6 @@ void loop() {
   delay(2000);
 }
 ```
-
----
 
 ## 🚦 Getting Started
 
