@@ -8,9 +8,7 @@ Real-time temperature and humidity monitoring using DHT11 sensor displayed on an
 
 ## 🎥 Demo
 
-<!-- Add your demo video or GIF here -->
-
----
+https://github.com/user-attachments/assets/b9dce6fb-6989-4257-a262-dd0681b12c7d
 
 ## 🛠️ Hardware Requirements
 
